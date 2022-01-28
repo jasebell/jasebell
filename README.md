@@ -33,6 +33,10 @@ Jason was section editor for Java Developer’s Journal, a writer on IBM Develop
 
 Now he is Senior DataOps Engineer with Digitalis.io specialising in Kafka, Pulsar, Hadoop and Cassandra DataOps and support. Previously Jason worked with Mastodon C, Minoro Data, Yapster, Ulster University, Airpos, Learning Pool, Obongo, The Press Association and various other startups and companies in the UK and the US. He was also on the organising committees for the O’Reilly Strata Data Conferences and ClojureX, the London hosted international Clojure Conference hosted by SkillsMatter.
 
+<div align="center">
+  <img src="glossier.png" width="700"/>
+</div>
+
 Currently he is an ambassador for OpenUK, an advocacy body for open source software, hardware and open data in the UK, and also a Confluent Community Catalyst, presenting and educating developers and architects on Kafka technologies. In addition to working with Digitalis, Jason is founder of Synthetica Data, a synthetic data engine for data creation, anonymisation and AI model preparation.
 
 Oh, and he plays the Chapman Stick….
