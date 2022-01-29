@@ -25,11 +25,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-Jason Bell has been working with customer centric data since 2002 and been involved in software development for over 30 years. A curious problem solver he has created many open source projects based on Hadoop, Machine Learning and Recommendation Systems. He has also contributed to Sparkling, the Spark wrapper for the Clojure language. During 2014 he wrote the book Machine Learning – Hands on for Developers and Technical Professionals for Wiley, the second edition was released in February 2020.
+Jason Bell has been working with customer centric data since 2002 and been involved in software development for over 34 years. A curious problem solver he has created many open source projects based on Hadoop, Machine Learning and Recommendation Systems. He has also contributed to Sparkling, the Spark wrapper for the Clojure language. During 2014 he wrote the book Machine Learning – Hands on for Developers and Technical Professionals for Wiley, the second edition was released in February 2020.
 
-Ever enthused by the data around us Jason talks on BigData, points, gamification and how group deals can hurt. One of his recent presentations linked eHarmony, regression data mining, sweatpeas, Darwin and the Tesco Clubcard together in one big swoop.
-
-Jason was section editor for Java Developer’s Journal, a writer on IBM DeveloperWorks, the Belfast Telegraph and written about BigData for Ulster Business magazine. He’s also delivered the odd keynote on the realities of Big Data, using Hadoop and trained various organisations in Big Data technologies.
+Jason was section editor for Java Developer’s Journal, a writer on IBM DeveloperWorks, the Belfast Telegraph and written about BigData for Ulster Business magazine. He’s also delivered the odd keynote on the realities of Big Data, using Hadoop and trained various organisations in Big Data technologies. 
 
 Now he is Senior DataOps Engineer with Digitalis.io specialising in Kafka, Pulsar, Hadoop and Cassandra DataOps and support. Previously Jason worked with Mastodon C, Minoro Data, Yapster, Ulster University, Airpos, Learning Pool, Obongo, The Press Association and various other startups and companies in the UK and the US. He was also on the organising committees for the O’Reilly Strata Data Conferences and ClojureX, the London hosted international Clojure Conference hosted by SkillsMatter.
 
