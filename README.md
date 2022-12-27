@@ -29,7 +29,7 @@ Jason Bell has been working with customer centric data since 2002 and been invol
 
 Jason was section editor for Java Developer’s Journal, a writer on IBM DeveloperWorks, the Belfast Telegraph and written about BigData for Ulster Business magazine. He’s also delivered the odd keynote on the realities of Big Data, using Hadoop and trained various organisations in Big Data technologies. 
 
-Now he is Princple Engineer at DataWorks.  Previously Jason worked with Digitalis, Mastodon C, Minoro Data, Yapster, Ulster University, Airpos, Learning Pool, Obongo, The Press Association and various other startups and companies in the UK and the US. He was also on the organising committees for the O’Reilly Strata Data Conferences and ClojureX, the London hosted international Clojure Conference hosted by SkillsMatter.
+Previously Jason worked with Dataworks, Digitalis, Mastodon C, Minoro Data, Yapster, Ulster University, Airpos, Learning Pool, Obongo, The Press Association and various other startups and companies in the UK and the US. He was also on the organising committees for the O’Reilly Strata Data Conferences and ClojureX, the London hosted international Clojure Conference hosted by SkillsMatter.
 
 <div align="center">
   <img src="glossier.png" width="700"/>
