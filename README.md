@@ -27,7 +27,9 @@
 
 Jason Bell has been working with customer centric data since 2002 and been involved in software development for over 34 years. A curious problem solver he has created many open source projects based on Hadoop, Machine Learning and Recommendation Systems. He has also contributed to Sparkling, the Spark wrapper for the Clojure language. During 2014 he wrote the book Machine Learning – Hands on for Developers and Technical Professionals for Wiley, the second edition was released in February 2020.
 
-Jason was section editor for Java Developer’s Journal, a writer on IBM DeveloperWorks, the Belfast Telegraph and written about BigData for Ulster Business magazine. He’s also delivered the odd keynote on the realities of Big Data, using Hadoop and trained various organisations in Big Data technologies. 
+His work has been cited over five hundred times and he is citied on over fifty patent applications. A full list can be found on his <a href="http://jasonbell.me">website</a>.
+
+Jason was section editor for Java Developer’s Journal, a writer on IBM DeveloperWorks, the Belfast Telegraph and written about BigData for Ulster Business magazine. He’s also delivered keynotes on the realities of Big Data, using Hadoop and trained various organisations in Big Data technologies. 
 
 Previously Jason worked with Neone Inc, SocialVoice AI/WebDataworks, Digitalis, Mastodon C, Minoro Data, Yapster, Ulster University, Airpos, Learning Pool, Obongo, The Press Association and various other startups and companies in the UK and the US. He was also on the organising committees for the O’Reilly Strata Data Conferences and ClojureX, the London hosted international Clojure Conference hosted by SkillsMatter. He was an ambassador for OpenUK, an advocacy body for open source software, hardware and open data in the UK, and also a Confluent Community Catalyst, presenting and educating developers and architects on Kafka technologies.
 
@@ -35,6 +37,6 @@ Previously Jason worked with Neone Inc, SocialVoice AI/WebDataworks, Digitalis, 
   <img src="glossier.png" width="700"/>
 </div>
 
-Currently he works for Neone Inc, and is also founder of ATXGV, a system that enables angel investors and VCs deploy quant math models to predict startup success.
+He is also founder of ATXGV, a system that enables angel investors and VCs deploy quant math models to predict startup success.
 
 Oh, and he plays the Chapman Stick….
